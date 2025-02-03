@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @avirao787073
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN
+- 👋 Hi, I’m Avnish
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 9111918450
